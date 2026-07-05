@@ -21,7 +21,7 @@ An AI Discord bot built with Python, Discord.py, and Google Gemini.
 Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/jananiwashere/jem-discord-bot.git
 ```
 
 Install dependencies:
